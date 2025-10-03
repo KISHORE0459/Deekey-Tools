@@ -2,7 +2,7 @@ import { Stack } from "@mui/material";
 import AppTitleWithSubTitle from "../AppTitleWithSubTitle";
 import AppParagraph from "../AppParagraphComp";
 import AnimationWrapper from "../AppComponents/AppAnimation";
-import InspectionLogo from "../../assets/Jigs/InspectionLogo.svg";
+import InspectionLogo from "../../assets/Jigs/inspectionLogo.svg";
 import ModularLogo from "../../assets/Jigs/ModularLogo.svg";
 import PowerLogo from "../../assets/Jigs/PowerLogo.svg";
 import RigidLogo from "../../assets/Jigs/RigidLogo.svg";
